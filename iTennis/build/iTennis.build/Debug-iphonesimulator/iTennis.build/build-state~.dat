@@ -1,0 +1,367 @@
+TiTennis
+v7
+r0
+t325021771.754730
+cCheck dependencies
+cProcessInfoPlistFile "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/Info.plist" iTennis-Info.plist
+cCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/MainWindow.xib"
+cCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/iTennisViewController.xib"
+cCpResource build/Debug-iphonesimulator/iTennis.app/Ball.png Ball.png
+cCpResource build/Debug-iphonesimulator/iTennis.app/court.png court.png
+cCpResource build/Debug-iphonesimulator/iTennis.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/iTennis.app/Raquet_Green.png Raquet_Green.png
+cCpResource build/Debug-iphonesimulator/iTennis.app/Raquet_Yellow.png Raquet_Yellow.png
+cProcessPCH /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTennis_Prefix-brhmtqqrnektgobbivbszbmkaesc/iTennis_Prefix.pch.gch iTennis_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/main.o "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/iTennisAppDelegate.o "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/iTennisViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Ball.png
+c00000000496E2AA20000000000000183
+t1231956642
+s387
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.h
+c000000004DAF2F4300000000000001E2
+t1303326531
+s482
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m
+c000000004DAF2F430000000000000A8E
+t1303326531
+s2702
+i"iTennisAppDelegate.h"
+i"iTennisViewController.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h
+c000000004DAF318500000000000003A3
+t1303327109
+s931
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m
+c000000004DAF350500000000000009DB
+t1303328005
+s2523
+i"iTennisViewController.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Default.png
+c00000000496E23150000000000005F94
+t1231954709
+s24468
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/MainWindow.xib
+c000000004DAF2F430000000000004E29
+t1303326531
+s20009
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Raquet_Green.png
+c00000000496E2B0E00000000000000F7
+t1231956750
+s247
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Raquet_Yellow.png
+c00000000496E2B1F00000000000000E7
+t1231956767
+s231
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app
+t2
+s0
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app.dSYM
+t2
+s0
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/Ball.png
+t1303328970
+s387
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/Default.png
+t1303328970
+s24468
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/Info.plist
+t1303328970
+s591
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/MainWindow.nib
+t1303328970
+s1681
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/PkgInfo
+t1303328970
+s8
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/Raquet_Green.png
+t1303328970
+s247
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/Raquet_Yellow.png
+t1303328970
+s231
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/court.png
+t1303328970
+s1977
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/iTennis
+t2
+s0
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/iTennisViewController.nib
+t1303328970
+s4034
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/iTennis.LinkFileList
+c000000004DAF38CA00000000000001C9
+t1303328970
+s457
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/iTennisAppDelegate.o
+t2
+s0
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/iTennisViewController.o
+t2
+s0
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/main.o
+t1303328971
+s6344
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/court.png
+c00000000496F626B00000000000007B9
+t1232036459
+s1977
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/iTennisViewController.xib
+c000000004DAF36BE00000000000070D1
+t1303328446
+s28881
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/iTennis_Prefix.pch
+c000000004DAF2F4300000000000000B7
+t1303326531
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/main.m
+c000000004DAF2F43000000000000016C
+t1303326531
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTennis_Prefix-brhmtqqrnektgobbivbszbmkaesc/iTennis_Prefix.pch.gch
+t1303328971
+s15211536
+
+NiTennis-Info.plist
+c000000004DAF2F43000000000000038D
+t1303326531
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies325021770#325021770#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/iTennisAppDelegate.o "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s325021771.629474
+e325021771.723281
+r0
+xCompileC
+xbuild/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/iTennisAppDelegate.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m:10:
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:29: error: statically allocated instance of Objective-C class 'UILabel'
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:31: error: statically allocated instance of Objective-C class 'UILabel'
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:32: error: statically allocated instance of Objective-C class 'UILabel'
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: property 'gameState' with 'retain' attribute must be of object type
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: property 'ballVelocity' with 'retain' attribute must be of object type
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: can not use an object as parameter to a method
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: can not use an object as parameter to a method
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: property 'comp_score' with 'retain' attribute must be of object type
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: can not use an object as parameter to a method
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: can not use an object as parameter to a method
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: property 'score' with 'retain' attribute must be of object type
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: can not use an object as parameter to a method
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: can not use an object as parameter to a method
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: property 'tapToBegin' with 'retain' attribute must be of object type
+lSLF07#2@95"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325021771#325021771#0(2348"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m:10:/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:29: error: statically allocated instance of Objective-C class 'UILabel'/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:31: error: statically allocated instance of Objective-C class 'UILabel'/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:32: error: statically allocated instance of Objective-C class 'UILabel'/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: property 'gameState' with 'retain' attribute must be of object type/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: property 'ballVelocity' with 'retain' attribute must be of object type/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: can not use an object as parameter to a method/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: can not use an object as parameter to a method/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: property 'comp_score' with 'retain' attribute must be of object type/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: can not use an object as parameter to a method/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: can not use an object as parameter to a method/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: property 'score' with 'retain' attribute must be of object type/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: can not use an object as parameter to a method/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: can not use an object as parameter to a method/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: property 'tapToBegin' with 'retain' attribute must be of object type14(4@60"Statically allocated instance of Objective-C class 'UILabel'325021771#114#163#2(7@109"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325021771#18446744073709551615#0#0(6@87"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325019331#10#0#10#0#0"0(13@154"Statically allocated instance of Objective-C class 'UILabel' in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#29#0#29#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#29#0#29#0#0"0(4@60"Statically allocated instance of Objective-C class 'UILabel'325021771#277#163#2(7@109"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325021771#18446744073709551615#0#0(6@87"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325019331#10#0#10#0#0"0(13@154"Statically allocated instance of Objective-C class 'UILabel' in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#31#0#31#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#31#0#31#0#0"0(4@60"Statically allocated instance of Objective-C class 'UILabel'325021771#440#163#2(7@109"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325021771#18446744073709551615#0#0(6@87"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325019331#10#0#10#0#0"0(13@154"Statically allocated instance of Objective-C class 'UILabel' in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#32#0#32#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#32#0#32#0#0"0(4@67"Property 'gameState' with 'retain' attribute must be of object type325021771#603#170#2(7@109"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325021771#18446744073709551615#0#0(6@87"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325019331#10#0#10#0#0"0(13@161"Property 'gameState' with 'retain' attribute must be of object type in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(4@70"Property 'ballVelocity' with 'retain' attribute must be of object type325021771#773#173#2(7@109"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325021771#18446744073709551615#0#0(6@87"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325019331#10#0#10#0#0"0(13@164"Property 'ballVelocity' with 'retain' attribute must be of object type in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(4@46"Can not use an object as parameter to a method325021771#946#149#2(7@109"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325021771#18446744073709551615#0#0(6@87"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325019331#10#0#10#0#0"0(13@140"Can not use an object as parameter to a method in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(4@46"Can not use an object as parameter to a method325021771#1095#149#2(7@109"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325021771#18446744073709551615#0#0(6@87"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325019331#10#0#10#0#0"0(13@140"Can not use an object as parameter to a method in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(4@68"Property 'comp_score' with 'retain' attribute must be of object type325021771#1244#171#2(7@109"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325021771#18446744073709551615#0#0(6@87"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325019331#10#0#10#0#0"0(13@162"Property 'comp_score' with 'retain' attribute must be of object type in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(4@46"Can not use an object as parameter to a method325021771#1415#149#2(7@109"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325021771#18446744073709551615#0#0(6@87"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325019331#10#0#10#0#0"0(13@140"Can not use an object as parameter to a method in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(4@46"Can not use an object as parameter to a method325021771#1564#149#2(7@109"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325021771#18446744073709551615#0#0(6@87"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325019331#10#0#10#0#0"0(13@140"Can not use an object as parameter to a method in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(4@63"Property 'score' with 'retain' attribute must be of object type325021771#1713#166#2(7@109"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325021771#18446744073709551615#0#0(6@87"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325019331#10#0#10#0#0"0(13@157"Property 'score' with 'retain' attribute must be of object type in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(4@46"Can not use an object as parameter to a method325021771#1879#149#2(7@109"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325021771#18446744073709551615#0#0(6@87"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325019331#10#0#10#0#0"0(13@140"Can not use an object as parameter to a method in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(4@46"Can not use an object as parameter to a method325021771#2028#149#2(7@109"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325021771#18446744073709551615#0#0(6@87"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325019331#10#0#10#0#0"0(13@140"Can not use an object as parameter to a method in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(4@68"Property 'tapToBegin' with 'retain' attribute must be of object type325021771#2177#171#2(7@109"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325021771#18446744073709551615#0#0(6@87"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325019331#10#0#10#0#0"0(13@162"Property 'tapToBegin' with 'retain' attribute must be of object type in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(0#0#87"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m8619209472#2192"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTennis_Prefix-brhmtqqrnektgobbivbszbmkaesc/iTennis_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/iTennisAppDelegate.o"1#
+
+CCompileC build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/iTennisViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s325021771.676949
+e325021771.754516
+r0
+xCompileC
+xbuild/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/iTennisViewController.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m:9:
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:29: error: statically allocated instance of Objective-C class 'UILabel'
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:31: error: statically allocated instance of Objective-C class 'UILabel'
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:32: error: statically allocated instance of Objective-C class 'UILabel'
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: property 'gameState' with 'retain' attribute must be of object type
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: property 'ballVelocity' with 'retain' attribute must be of object type
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: can not use an object as parameter to a method
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: can not use an object as parameter to a method
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: property 'comp_score' with 'retain' attribute must be of object type
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: can not use an object as parameter to a method
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: can not use an object as parameter to a method
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: property 'score' with 'retain' attribute must be of object type
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: can not use an object as parameter to a method
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: can not use an object as parameter to a method
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: property 'tapToBegin' with 'retain' attribute must be of object type
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m:22: error: type of property 'tapToBegin' does not match type of ivar 'tapToBegin'
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m:22: error: type of property 'score' does not match type of ivar 'score'
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m:22: error: type of property 'comp_score' does not match type of ivar 'comp_score'
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m: In function '-[iTennisViewController setGameState:]':
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m:22: warning: passing argument 4 of 'objc_setProperty' makes pointer from integer without a cast
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m: In function '-[iTennisViewController setBallVelocity:]':
+o/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m:22: error: incompatible type for argument 4 of 'objc_setProperty'
+lSLF07#2@98"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325021771#325021771#0(3498"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m:9:/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:29: error: statically allocated instance of Objective-C class 'UILabel'/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:31: error: statically allocated instance of Objective-C class 'UILabel'/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:32: error: statically allocated instance of Objective-C class 'UILabel'/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: property 'gameState' with 'retain' attribute must be of object type/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: property 'ballVelocity' with 'retain' attribute must be of object type/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: can not use an object as parameter to a method/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: can not use an object as parameter to a method/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: property 'comp_score' with 'retain' attribute must be of object type/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: can not use an object as parameter to a method/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: can not use an object as parameter to a method/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: property 'score' with 'retain' attribute must be of object type/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: can not use an object as parameter to a method/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: can not use an object as parameter to a method/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h:37: error: property 'tapToBegin' with 'retain' attribute must be of object type/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m:22: error: type of property 'tapToBegin' does not match type of ivar 'tapToBegin'/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m:22: error: type of property 'score' does not match type of ivar 'score'/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m:22: error: type of property 'comp_score' does not match type of ivar 'comp_score'/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m: In function '-[iTennisViewController setGameState:]':/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m:22: warning: passing argument 4 of 'objc_setProperty' makes pointer from integer without a cast/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m: In function '-[iTennisViewController setBallVelocity:]':/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m:22: error: incompatible type for argument 4 of 'objc_setProperty'19(4@60"Statically allocated instance of Objective-C class 'UILabel'325021771#116#163#2(7@112"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325020805#9#0#9#0#0"0(13@154"Statically allocated instance of Objective-C class 'UILabel' in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#29#0#29#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#29#0#29#0#0"0(4@60"Statically allocated instance of Objective-C class 'UILabel'325021771#279#163#2(7@112"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325020805#9#0#9#0#0"0(13@154"Statically allocated instance of Objective-C class 'UILabel' in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#31#0#31#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#31#0#31#0#0"0(4@60"Statically allocated instance of Objective-C class 'UILabel'325021771#442#163#2(7@112"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325020805#9#0#9#0#0"0(13@154"Statically allocated instance of Objective-C class 'UILabel' in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#32#0#32#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#32#0#32#0#0"0(4@67"Property 'gameState' with 'retain' attribute must be of object type325021771#605#170#2(7@112"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325020805#9#0#9#0#0"0(13@161"Property 'gameState' with 'retain' attribute must be of object type in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(4@70"Property 'ballVelocity' with 'retain' attribute must be of object type325021771#775#173#2(7@112"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325020805#9#0#9#0#0"0(13@164"Property 'ballVelocity' with 'retain' attribute must be of object type in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(4@46"Can not use an object as parameter to a method325021771#948#149#2(7@112"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325020805#9#0#9#0#0"0(13@140"Can not use an object as parameter to a method in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(4@46"Can not use an object as parameter to a method325021771#1097#149#2(7@112"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325020805#9#0#9#0#0"0(13@140"Can not use an object as parameter to a method in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(4@68"Property 'comp_score' with 'retain' attribute must be of object type325021771#1246#171#2(7@112"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325020805#9#0#9#0#0"0(13@162"Property 'comp_score' with 'retain' attribute must be of object type in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(4@46"Can not use an object as parameter to a method325021771#1417#149#2(7@112"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325020805#9#0#9#0#0"0(13@140"Can not use an object as parameter to a method in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(4@46"Can not use an object as parameter to a method325021771#1566#149#2(7@112"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325020805#9#0#9#0#0"0(13@140"Can not use an object as parameter to a method in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(4@63"Property 'score' with 'retain' attribute must be of object type325021771#1715#166#2(7@112"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325020805#9#0#9#0#0"0(13@157"Property 'score' with 'retain' attribute must be of object type in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(4@46"Can not use an object as parameter to a method325021771#1881#149#2(7@112"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325020805#9#0#9#0#0"0(13@140"Can not use an object as parameter to a method in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(4@46"Can not use an object as parameter to a method325021771#2030#149#2(7@112"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325020805#9#0#9#0#0"0(13@140"Can not use an object as parameter to a method in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(4@68"Property 'tapToBegin' with 'retain' attribute must be of object type325021771#2179#171#2(7@112"In file included from /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325020805#9#0#9#0#0"0(13@162"Property 'tapToBegin' with 'retain' attribute must be of object type in /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325021771#18446744073709551615#0#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h325019909#37#0#37#0#0"0(4@70"Type of property 'tapToBegin' does not match type of ivar 'tapToBegin'325021771#2350#173#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325020805#22#0#22#0#0"0(4@60"Type of property 'score' does not match type of ivar 'score'325021771#2523#163#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325020805#22#0#22#0#0"0(4@70"Type of property 'comp_score' does not match type of ivar 'comp_score'325021771#2686#173#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325020805#22#0#22#0#0"0(22@82"Passing argument 4 of 'objc_setProperty' makes pointer from integer without a cast325021771#3005#187#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325020805#22#0#22#0#0"0(4@54"Incompatible type for argument 4 of 'objc_setProperty'325021771#3341#157#0(6@90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325020805#22#0#22#0#0"0(0#0#90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m8618089120#2198"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTennis_Prefix-brhmtqqrnektgobbivbszbmkaesc/iTennis_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/iTennisViewController.o"1#
+
+CCompileC build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/main.o "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s325021771.628354
+e325021771.676859
+r1
+xCompileC
+xbuild/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/main.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/main.m325021771#325021771#0(0"0(0#0#65"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/main.m8619744032#2156"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTennis_Prefix-brhmtqqrnektgobbivbszbmkaesc/iTennis_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/main.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/MainWindow.xib"
+s325021770.483867
+e325021770.839078
+r1
+xCompileXIB
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib325021770#325021770#0(0"0(0#0#73"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/MainWindow.xib8619178688#636"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/MainWindow.nib" "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/iTennisViewController.xib"
+s325021770.484516
+e325021770.962844
+r1
+xCompileXIB
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/iTennisViewController.xib
+lSLF07#2@36"CompileXIB iTennisViewController.xib325021770#325021770#0(0"0(0#0#84"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/iTennisViewController.xib8619016704#658"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/iTennisViewController.nib" "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/iTennisViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCpResource build/Debug-iphonesimulator/iTennis.app/Ball.png Ball.png
+s325021770.839150
+e325021770.867001
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iTennis.app/Ball.png
+xBall.png
+lSLF07#2@13"Copy Ball.png325021770#325021770#0(0"0(0#0#67"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Ball.png8613446688#518"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Ball.png" "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app"0#
+
+CCpResource build/Debug-iphonesimulator/iTennis.app/Default.png Default.png
+s325021770.840139
+e325021770.865506
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iTennis.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png325021770#325021770#0(0"0(0#0#70"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Default.png8618874080#521"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Default.png" "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app"0#
+
+CCpResource build/Debug-iphonesimulator/iTennis.app/Raquet_Green.png Raquet_Green.png
+s325021770.840949
+e325021770.866272
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iTennis.app/Raquet_Green.png
+xRaquet_Green.png
+lSLF07#2@21"Copy Raquet_Green.png325021770#325021770#0(0"0(0#0#75"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Raquet_Green.png8607360544#526"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Raquet_Green.png" "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app"0#
+
+CCpResource build/Debug-iphonesimulator/iTennis.app/Raquet_Yellow.png Raquet_Yellow.png
+s325021770.841437
+e325021770.870110
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iTennis.app/Raquet_Yellow.png
+xRaquet_Yellow.png
+lSLF07#2@22"Copy Raquet_Yellow.png325021770#325021770#0(0"0(0#0#76"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Raquet_Yellow.png8618877184#527"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Raquet_Yellow.png" "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app"0#
+
+CCpResource build/Debug-iphonesimulator/iTennis.app/court.png court.png
+s325021770.839708
+e325021770.869651
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iTennis.app/court.png
+xcourt.png
+lSLF07#2@14"Copy court.png325021770#325021770#0(0"0(0#0#68"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/court.png8610537152#519"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/court.png" "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app"0#
+
+CGenerateDSYMFile "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app.dSYM" "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/iTennis"
+r0
+
+CLd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/iTennis" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/Info.plist" iTennis-Info.plist
+s325021770.438916
+e325021770.483784
+r1
+xProcessInfoPlistFile
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/Info.plist
+xiTennis-Info.plist
+lSLF07#2@26"Process iTennis-Info.plist325021770#325021770#0(0"0(0#0#77"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/iTennis-Info.plist7957693761157344256#545"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iTennis-Info.plist -genpkginfo "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/Info.plist"0#
+
+CProcessPCH /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTennis_Prefix-brhmtqqrnektgobbivbszbmkaesc/iTennis_Prefix.pch.gch iTennis_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s325021770.963027
+e325021771.628240
+r1
+xProcessPCH
+x/var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTennis_Prefix-brhmtqqrnektgobbivbszbmkaesc/iTennis_Prefix.pch.gch
+xiTennis_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile iTennis_Prefix.pch325021770#325021771#0(0"0(0#0#77"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/iTennis_Prefix.pch8617997760#2026"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/DerivedSources" -c "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/iTennis_Prefix.pch" -o /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTennis_Prefix-brhmtqqrnektgobbivbszbmkaesc/iTennis_Prefix.pch.gch0#
+
+CTouch "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app"
+r0
+

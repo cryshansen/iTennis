@@ -1,0 +1,351 @@
+TiTennis
+v7
+r0
+t325028517.921552
+cCheck dependencies
+cProcessInfoPlistFile "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/Info.plist" iTennis-Info.plist
+cCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/MainWindow.xib"
+cCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/iTennisViewController.xib"
+cCpResource build/Debug-iphonesimulator/iTennis.app/Ball.png Ball.png
+cCpResource build/Debug-iphonesimulator/iTennis.app/court.png court.png
+cCpResource build/Debug-iphonesimulator/iTennis.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/iTennis.app/Raquet_Green.png Raquet_Green.png
+cCpResource build/Debug-iphonesimulator/iTennis.app/Raquet_Yellow.png Raquet_Yellow.png
+cProcessPCH /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTennis_Prefix-brhmtqqrnektgobbivbszbmkaesc/iTennis_Prefix.pch.gch iTennis_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/main.o "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/iTennisAppDelegate.o "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/iTennisViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/iTennis" normal i386
+cGenerateDSYMFile "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app.dSYM" "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/iTennis"
+cTouch "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Ball.png
+c00000000496E2AA20000000000000183
+t1231956642
+s387
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.h
+c000000004DAF2F4300000000000001E2
+t1303326531
+s482
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m
+c000000004DAF2F430000000000000A8E
+t1303326531
+s2702
+i"iTennisAppDelegate.h"
+i"iTennisViewController.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.h
+c000000004DAF438200000000000003F9
+t1303331714
+s1017
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m
+c000000004DAF576C00000000000016B2
+t1303336812
+s5810
+i"iTennisViewController.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Default.png
+c00000000496E23150000000000005F94
+t1231954709
+s24468
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/MainWindow.xib
+c000000004DAF2F430000000000004E29
+t1303326531
+s20009
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Raquet_Green.png
+c00000000496E2B0E00000000000000F7
+t1231956750
+s247
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Raquet_Yellow.png
+c00000000496E2B1F00000000000000E7
+t1231956767
+s231
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app
+t1303335717
+s408
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app.dSYM
+t1303335717
+s102
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/Ball.png
+t1303328970
+s387
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/Default.png
+t1303328970
+s24468
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/Info.plist
+t1303328970
+s591
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/MainWindow.nib
+t1303328970
+s1681
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/PkgInfo
+t1303328970
+s8
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/Raquet_Green.png
+t1303328970
+s247
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/Raquet_Yellow.png
+t1303328970
+s231
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/court.png
+t1303328970
+s1977
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/iTennis
+t1303335717
+s30028
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/iTennisViewController.nib
+t1303334629
+s4549
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/iTennis.LinkFileList
+c000000004DAF38CA00000000000001C9
+t1303328970
+s457
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/iTennisAppDelegate.o
+t1303333098
+s48088
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/iTennisViewController.o
+t1303335717
+s61064
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/main.o
+t1303328971
+s6344
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/court.png
+c00000000496F626B00000000000007B9
+t1232036459
+s1977
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/iTennisViewController.xib
+c000000004DAF4EE10000000000007A38
+t1303334625
+s31288
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/iTennis_Prefix.pch
+c000000004DAF2F4300000000000000B7
+t1303326531
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/main.m
+c000000004DAF2F43000000000000016C
+t1303326531
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTennis_Prefix-brhmtqqrnektgobbivbszbmkaesc/iTennis_Prefix.pch.gch
+t1303328971
+s15211536
+
+NiTennis-Info.plist
+c000000004DAF2F43000000000000038D
+t1303326531
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies325028517#325028517#0(0"0(0#1#0"8613769376#0"0#
+
+CCompileC build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/iTennisAppDelegate.o "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s325025898.586622
+e325025898.787830
+r1
+xCompileC
+xbuild/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/iTennisAppDelegate.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m325025898#325025898#0(0"0(0#0#87"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m8604572192#2192"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTennis_Prefix-brhmtqqrnektgobbivbszbmkaesc/iTennis_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisAppDelegate.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/iTennisAppDelegate.o"0#
+
+CCompileC build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/iTennisViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s325028517.743355
+e325028517.880784
+r1
+xCompileC
+xbuild/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/iTennisViewController.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m325028517#325028517#0(0"0(0#0#90"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m8603183072#2198"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTennis_Prefix-brhmtqqrnektgobbivbszbmkaesc/iTennis_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Classes/iTennisViewController.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/iTennisViewController.o"0#
+
+CCompileC build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/main.o "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s325021771.628354
+e325021771.676859
+r1
+xCompileC
+xbuild/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/main.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/main.m325021771#325021771#0(0"0(0#0#65"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/main.m8619744032#2156"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTennis_Prefix-brhmtqqrnektgobbivbszbmkaesc/iTennis_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/main.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/MainWindow.xib"
+s325021770.483867
+e325021770.839078
+r1
+xCompileXIB
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib325021770#325021770#0(0"0(0#0#73"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/MainWindow.xib8619178688#636"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/MainWindow.nib" "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/iTennisViewController.xib"
+s325027429.247594
+e325027429.673165
+r1
+xCompileXIB
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/iTennisViewController.xib
+lSLF07#2@36"CompileXIB iTennisViewController.xib325027429#325027429#0(0"0(0#0#84"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/iTennisViewController.xib8619727296#658"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/iTennisViewController.nib" "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/iTennisViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCpResource build/Debug-iphonesimulator/iTennis.app/Ball.png Ball.png
+s325021770.839150
+e325021770.867001
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iTennis.app/Ball.png
+xBall.png
+lSLF07#2@13"Copy Ball.png325021770#325021770#0(0"0(0#0#67"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Ball.png8613446688#518"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Ball.png" "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app"0#
+
+CCpResource build/Debug-iphonesimulator/iTennis.app/Default.png Default.png
+s325021770.840139
+e325021770.865506
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iTennis.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png325021770#325021770#0(0"0(0#0#70"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Default.png8618874080#521"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Default.png" "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app"0#
+
+CCpResource build/Debug-iphonesimulator/iTennis.app/Raquet_Green.png Raquet_Green.png
+s325021770.840949
+e325021770.866272
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iTennis.app/Raquet_Green.png
+xRaquet_Green.png
+lSLF07#2@21"Copy Raquet_Green.png325021770#325021770#0(0"0(0#0#75"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Raquet_Green.png8607360544#526"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Raquet_Green.png" "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app"0#
+
+CCpResource build/Debug-iphonesimulator/iTennis.app/Raquet_Yellow.png Raquet_Yellow.png
+s325021770.841437
+e325021770.870110
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iTennis.app/Raquet_Yellow.png
+xRaquet_Yellow.png
+lSLF07#2@22"Copy Raquet_Yellow.png325021770#325021770#0(0"0(0#0#76"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Raquet_Yellow.png8618877184#527"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/Raquet_Yellow.png" "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app"0#
+
+CCpResource build/Debug-iphonesimulator/iTennis.app/court.png court.png
+s325021770.839708
+e325021770.869651
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iTennis.app/court.png
+xcourt.png
+lSLF07#2@14"Copy court.png325021770#325021770#0(0"0(0#0#68"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/court.png8610537152#519"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/court.png" "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app"0#
+
+CGenerateDSYMFile "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app.dSYM" "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/iTennis"
+s325028517.906514
+e325028517.919353
+r1
+xGenerateDSYMFile
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app.dSYM
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/iTennis
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/iTennis.app.dSYM build/Debug-iphonesimulator/iTennis.app/iTennis325028517#325028517#0(0"0(0#0#106"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/iTennis8615612960#449"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/iTennis" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app.dSYM"0#
+
+CLd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/iTennis" normal i386
+s325028517.880863
+e325028517.906432
+r1
+xLd
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/iTennis
+xnormal
+xi386
+lSLF07#2@111"Link /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/iTennis325028517#325028517#0(0"0(0#0#0"8619236128#1010"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk "-L/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator" -filelist "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/Objects-normal/i386/iTennis.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/iTennis"0#
+
+CProcessInfoPlistFile "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/Info.plist" iTennis-Info.plist
+s325021770.438916
+e325021770.483784
+r1
+xProcessInfoPlistFile
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/Info.plist
+xiTennis-Info.plist
+lSLF07#2@26"Process iTennis-Info.plist325021770#325021770#0(0"0(0#0#77"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/iTennis-Info.plist7957693761157344256#545"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iTennis-Info.plist -genpkginfo "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app/Info.plist"0#
+
+CProcessPCH /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTennis_Prefix-brhmtqqrnektgobbivbszbmkaesc/iTennis_Prefix.pch.gch iTennis_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s325021770.963027
+e325021771.628240
+r1
+xProcessPCH
+x/var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTennis_Prefix-brhmtqqrnektgobbivbszbmkaesc/iTennis_Prefix.pch.gch
+xiTennis_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile iTennis_Prefix.pch325021770#325021771#0(0"0(0#0#77"/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/iTennis_Prefix.pch8617997760#2026"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/iTennis-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/iTennis.build/Debug-iphonesimulator/iTennis.build/DerivedSources" -c "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/iTennis_Prefix.pch" -o /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iTennis_Prefix-brhmtqqrnektgobbivbszbmkaesc/iTennis_Prefix.pch.gch0#
+
+CTouch "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app"
+s325028517.919439
+e325028517.921527
+r1
+xTouch
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app
+lSLF07#2@104"Touch /Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app325028517#325028517#0(0"0(0#0#0"8613916096#322"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/iTennis/build/Debug-iphonesimulator/iTennis.app"0#
+
